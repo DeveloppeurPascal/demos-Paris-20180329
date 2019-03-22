@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/07 10:00:31.000.604,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 17:32:53.000.796,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 19:47:08.000.318,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 01:06:55.000.853,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 01:07:12.000.463,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\20-web-apptethering-liste-de-courses\app-secondaire\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 01:07:12.000.463,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\20-web-apptethering-liste-de-courses\app-secondaire\Unit1.fmx</Transaction>
+    <Transaction>2018/03/25 01:07:14.000.630,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\20-web-apptethering-liste-de-courses\app-secondaire\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="_iossimulator_6C18DD8D-F8F5-4157-8D3E-6065F6795F18" iOSDevice64="" iOSDevice32=""/>
+		<NoProfile Android="FUH7N16415013165"/>
+	</ActiveMobileDevice>
+</BorlandProject>

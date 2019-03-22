@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/25 00:19:41.000.247,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/03/25 00:19:41.000.014,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/25 00:19:41.000.913,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.584,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\images\expand.png</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.350,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\css\main.css</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.228,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.542,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\images\collapse.png</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.156,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\serverfunctions.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.281,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\connection.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.461,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.422,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\templates\reversestring.html</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.087,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.068,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\base64.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.201,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\json2-min.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.312,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.106,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\json2.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.177,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\base64-min.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.130,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\callbackframework.js</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.384,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2018/03/25 00:19:46.000.254,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\17-web-datasnap\Project1\js\callbackframework-min.js</Transaction>
+  </Transactions>
+</BorlandProject>

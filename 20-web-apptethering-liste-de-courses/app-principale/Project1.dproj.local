@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/23 13:45:59.000.975,=D:\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 13:49:45.000.473,D:\Documents\Embarcadero\Studio\Projets\Unit1.fmx=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\22-web-apptethering-liste-de-courses\app-principale\Unit1.fmx</Transaction>
+    <Transaction>2018/03/23 13:49:45.000.473,D:\Documents\Embarcadero\Studio\Projets\Unit1.pas=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\22-web-apptethering-liste-de-courses\app-principale\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 13:49:48.000.561,D:\Documents\Embarcadero\Studio\Projets\Project1.dproj=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\22-web-apptethering-liste-de-courses\app-principale\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="FUH7N16415013165"/>
+		<Pimac iOSSimulator="_iossimulator_6C18DD8D-F8F5-4157-8D3E-6065F6795F18" iOSDevice32="_iosdevice_4735ab942d82a0a75d28785082e67b230f810e02" iOSDevice64="_iosdevice_4735ab942d82a0a75d28785082e67b230f810e02"/>
+	</ActiveMobileDevice>
+</BorlandProject>
