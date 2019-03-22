@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/07 10:00:31.000.604,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 17:32:53.000.796,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 19:47:08.000.318,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 18:37:23.000.322,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 18:37:46.000.465,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\11-mul-liste-de-courses-bdd\Unit1.fmx</Transaction>
+    <Transaction>2018/03/22 18:37:46.000.465,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\11-mul-liste-de-courses-bdd\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 18:37:49.000.232,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\11-mul-liste-de-courses-bdd\Project1.dproj</Transaction>
+    <Transaction>2018/03/22 18:38:05.000.808,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\11-mul-liste-de-courses-bdd\Unit2.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="iPhone5" iOSDevice32="" iOSDevice64=""/>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

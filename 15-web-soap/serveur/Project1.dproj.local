@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/23 09:55:05.000.315,=D:\Documents\Embarcadero\Studio\Projets\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/23 09:55:12.000.634,=D:\Documents\Embarcadero\Studio\Projets\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/23 09:56:53.000.790,=D:\Documents\Embarcadero\Studio\Projets\udemosImpl.pas</Transaction>
+    <Transaction>2018/03/23 09:56:54.000.362,=D:\Documents\Embarcadero\Studio\Projets\udemosIntf.pas</Transaction>
+    <Transaction>2018/03/23 09:57:51.000.525,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\udemosIntf.pas=D:\Documents\Embarcadero\Studio\Projets\udemosIntf.pas</Transaction>
+    <Transaction>2018/03/23 09:57:55.000.034,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\udemosImpl.pas=D:\Documents\Embarcadero\Studio\Projets\udemosImpl.pas</Transaction>
+    <Transaction>2018/03/23 09:57:58.000.192,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\FormUnit1.fmx=D:\Documents\Embarcadero\Studio\Projets\FormUnit1.fmx</Transaction>
+    <Transaction>2018/03/23 09:57:58.000.192,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\FormUnit1.pas=D:\Documents\Embarcadero\Studio\Projets\FormUnit1.pas</Transaction>
+    <Transaction>2018/03/23 09:58:01.000.767,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\WebModuleUnit1.pas=D:\Documents\Embarcadero\Studio\Projets\WebModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/23 09:58:01.000.767,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\WebModuleUnit1.dfm=D:\Documents\Embarcadero\Studio\Projets\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2018/03/23 09:58:05.000.514,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\Project1.dproj=D:\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2018/03/23 10:19:57.000.486,=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\serveur\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 10:21:10.000.752,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\serveur\uemployes.pas=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\serveur\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 10:21:10.000.752,D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\serveur\uemployes.dfm=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\serveur\Unit1.dfm</Transaction>
+    <Transaction>2018/03/24 23:07:58.000.734,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\15-web-soap\serveur\uemployes.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

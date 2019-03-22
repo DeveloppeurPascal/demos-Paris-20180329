@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/23 10:07:23.000.937,=D:\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 10:09:09.000.401,=D:\Documents\Embarcadero\Studio\Projets\Idemos1.pas</Transaction>
+    <Transaction>2018/03/23 10:09:37.000.099,D:\Documents\Embarcadero\Studio\Projets\Idemos1.pas=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\client-ldemo\Idemos1.pas</Transaction>
+    <Transaction>2018/03/23 10:09:40.000.700,D:\Documents\Embarcadero\Studio\Projets\Unit1.fmx=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\client-ldemo\Unit1.fmx</Transaction>
+    <Transaction>2018/03/23 10:09:40.000.700,D:\Documents\Embarcadero\Studio\Projets\Unit1.pas=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\client-ldemo\Unit1.pas</Transaction>
+    <Transaction>2018/03/23 10:09:44.000.101,D:\Documents\Embarcadero\Studio\Projets\Project1.dproj=D:\Documents\Embarcadero\Studio\Projets\rennes - paris\17-web-soap\client-ldemo\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>  <Pimac iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
