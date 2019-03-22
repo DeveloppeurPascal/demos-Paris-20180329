@@ -1,0 +1,47 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 242
+  ClientWidth = 472
+  Caption = 'MainForm'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniDBNavigator1: TUniDBNavigator
+    Left = 0
+    Top = 0
+    Width = 472
+    Height = 25
+    Hint = ''
+    DataSource = DataModule1.DataSource1
+    Align = alTop
+    Anchors = [akLeft, akTop, akRight]
+    TabOrder = 0
+    ExplicitLeft = 128
+    ExplicitTop = 128
+    ExplicitWidth = 241
+  end
+  object UniDBGrid1: TUniDBGrid
+    Left = 0
+    Top = 25
+    Width = 472
+    Height = 217
+    Hint = ''
+    DataSource = DataModule1.DataSource1
+    LoadMask.Message = 'Loading data...'
+    Align = alClient
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    TabOrder = 1
+  end
+  object UniButton1: TUniButton
+    Left = 389
+    Top = 209
+    Width = 75
+    Height = 25
+    Hint = ''
+    Caption = 'Modifier'
+    TabOrder = 2
+    OnClick = UniButton1Click
+  end
+end

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/07 10:00:31.000.604,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 17:32:53.000.796,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 19:47:08.000.318,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 20:29:03.937,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 20:29:45.305,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\21-ind-arduino\mastermind\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 20:29:45.305,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\21-ind-arduino\mastermind\Unit1.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2018/03/25 20:29:50.025,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\21-ind-arduino\mastermind\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

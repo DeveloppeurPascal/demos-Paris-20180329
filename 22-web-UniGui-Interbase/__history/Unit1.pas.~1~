@@ -1,0 +1,33 @@
+unit Unit1;
+
+interface
+
+uses
+  SysUtils, Classes;
+
+type
+  TDataModule1 = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function DataModule1: TDataModule1;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  UniGUIVars, uniGUIMainModule, MainModule;
+
+function DataModule1: TDataModule1;
+begin
+  Result := TDataModule1(UniMainModule.GetModuleInstance(TDataModule1));
+end;
+
+initialization
+  RegisterModuleClass(TDataModule1);
+
+end.
