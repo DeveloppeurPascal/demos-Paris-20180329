@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/07 10:00:31.000.604,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 17:32:53.000.796,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/11 19:47:08.000.318,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/21 17:26:39.000.328,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/03/21 17:27:02.000.537,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2018/03/21 18:03:09.000.232,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Unit1.dfm</Transaction>
+    <Transaction>2018/03/21 18:03:09.000.232,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Unit1.pas</Transaction>
+    <Transaction>2018/03/21 18:03:14.000.747,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Project1.dproj</Transaction>
+    <Transaction>2018/03/21 18:04:24.000.848,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Unit2.pas</Transaction>
+    <Transaction>2018/03/21 18:06:00.000.018,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Unit3.pas</Transaction>
+    <Transaction>2018/03/21 18:27:34.000.847,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\demos-rennes-20180327\07-eve-liste-de-courses-json\Unit2.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
